@@ -1,4 +1,4 @@
-# Trait Extraction & Knowledge Integration Pipeline
+# Trait Extraction (& Knowledge Integration) Pipeline
 
 This repository contains a set of Jupyter notebooks that together form a modular pipeline for scraping botanical descriptions, extracting phenotypic traits using LLMs, linking traits to standardised community ontologies, and experimenting with assembling a structured trait knowledge base.  
 Each notebook focuses on a specific task, and they can be combined into a full end-to-end workflow.
